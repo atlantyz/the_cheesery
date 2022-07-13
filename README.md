@@ -21,7 +21,7 @@ Overview
 
 
 
-Setup
+Framework
 ----
 
 ## Source Data
@@ -29,3 +29,43 @@ Setup
 The preliminary data contains the following details of cheeses:
 
 * 
+
+## Data Focus
+
+
+
+Machine Learning Model
+----
+## Preliminary feature selection
+## Preliminary data processing
+## About our model
+## Training the machine learning model
+## Interpreting the machine learning model
+
+Database
+----
+
+## Description of database
+
+Analytic Process
+----
+
+## Data Exploration Phase
+## Data Analysis Phase
+# Tools Used
+
+Presentation
+----
+
+## The Dashboard
+## Google Slides
+
+Results
+----
+
+Conclusion
+----
+
+## Recommendations
+
+## Links
