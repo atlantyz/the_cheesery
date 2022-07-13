@@ -17,3 +17,16 @@ Overview
 ----
 
 The purpose of this project is to use cheese data to train a machine learning model to make accurate cheese predictions  based off of description words from customers for a new cheese shop, The Cheesery. 
+
+## Background
+
+
+
+Setup
+----
+
+## Source Data
+
+The preliminary data contains the following details of cheeses:
+
+* 
