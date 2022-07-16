@@ -1,4 +1,4 @@
-cheese,company,location,price,milk type,country of origin,family,type,texture,color,flavor,vegetarian
+cheese,company,city,price,milk,country,origin,classification,texture,color,flavor,vegetarian
 crescenza,mozzarella company,dallas,9.39,cow,italy,italian,fresh soft,creamy,white,sweet,yes
 smoked scamorza,mozzarella company,dallas,15.59,cow,italy,pasta filata,semi soft,firm,white,smokey,no
 smoked mozzarella,mozzarella company,dallas,10.79,cow,italy,mozzarella,semi soft,bouncy,white,smokey,yes
