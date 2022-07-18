@@ -56,7 +56,7 @@ Database
 ----
 For our Database, we decided to collect our own data points on cheese from multiple sources because we could not find a singular 
 source that could provide all of the information that we were seeking.
-## Description of database
+Description of database
 Our database is filled with a sophisticated selection of different ways to classify cheese. To begin the header titles we have, Names where one can find the many different names of cheese, then to follow we have Company, Location, Price, Milk, Origin, Family, Type, Texture, Color, Flavor, Vegetarian.  
 Analytic Process
 ----
