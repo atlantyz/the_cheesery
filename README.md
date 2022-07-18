@@ -19,7 +19,14 @@ Overview
 This project is reviewing a large database of cheese in order to generate specific names of Texas cheeses based on characteristics that customers describe of their liking. 
 
 ## Background
-
+### Communication Protocols 
+Our team of four is not located in one central area so we coordinate on times to meet up outside of class. Listed below are the different options we've set and executed to ensure our project is submitted on time.
+#### Class and Weekly Meetings
+Our group agreed that we would use the valuable time given in class to work on our project, as well as agreeing to meet 1-2 times on the weekends over Discord/Zoom to make sure we are staying on top of our deadlines. 
+#### Meetings as Needed
+We have discovered that sometimes we may not always be able to all meet together at the same time. Between our group members we have determined extra time to meet if a member needs help on their part and another group member is avaliable. We have made this project a priority in each of our lives. 
+#### Slack Groupchat
+Our team formed a groupchat to communicate and setup meetings as well throughout the duration of the project. 
 
 
 # Framework
@@ -38,8 +45,9 @@ Being that The Cheesery is located in Texas, we will be using Texas cheeses as o
 
 Machine Learning Model
 ----
-## Preliminary feature selection
 ## Preliminary data processing
+- Filled in Null values with correct characteristics on cheese.
+- Identified data types within dataframe.
 ## About our model
 ## Training the machine learning model
 ## Interpreting the machine learning model
