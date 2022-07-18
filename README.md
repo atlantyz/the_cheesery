@@ -60,6 +60,7 @@ source that could provide all of the information that we were seeking.
 Description of database
 ----
 Our database is filled with a sophisticated selection of different ways to classify cheese. To begin the header titles we have, Names where one can find the many different names of cheese, then to follow we have Company, Location, Price, Milk, Origin, Family, Type, Texture, Color, Flavor, Vegetarian.  
+
 Analytic Process
 ----
 
