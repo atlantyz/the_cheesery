@@ -46,7 +46,8 @@ Machine Learning Model
 
 Database
 ----
-
+For our Database, we decided to collect our own data points on cheese from multiple sources because we could not find a singular 
+source that could provide all of the information that we were seeking.
 ## Description of database
 
 Analytic Process
