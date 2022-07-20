@@ -1,7 +1,5 @@
 # the_cheesery
 
-![cheesery](https://user-images.githubusercontent.com/79942792/178360846-2828677f-9589-49f2-8135-dc194ca32b13.jpg)
-
 Table of Contents
 ----
 * Overview
@@ -16,17 +14,17 @@ Table of Contents
 Overview
 ----
 ## Description
-This project is reviewing a large database of cheese in order to generate specific names of Texas cheeses based on characteristics that customers describe of their liking. 
+
+This project created a database of cheeses made and sold in Texas, from a variety of Texas cheesemakers. Our new online shop, The Cheesery, will use this database to create a machine learning model that will recommend a Texas cheese for new customers, using characteristics including flavor and texture. This project will provide engaging visualizations and a fun recommendation survey.
 
 ## Background
-### Communication Protocols 
-Our team of four is not located in one central area so we coordinate on times to meet up outside of class. Listed below are the different options we've set and executed to ensure our project is submitted on time.
-#### Class and Weekly Meetings
-Our group agreed that we would use the valuable time given in class to work on our project, as well as agreeing to meet 1-2 times on the weekends over Discord/Zoom to make sure we are staying on top of our deadlines. 
-#### Meetings as Needed
-We have discovered that sometimes we may not always be able to all meet together at the same time. Between our group members we have determined extra time to meet if a member needs help on their part and another group member is avaliable. We have made this project a priority in each of our lives. 
-#### Slack Groupchat
-Our team formed a groupchat to communicate and setup meetings as well throughout the duration of the project. 
+
+The Cheesery is an online cheese shop that highlights cheeses from Texan cheesemakers. Because these cheeses are primarily available in Texas, new customers may not be familiar with the flavor and texture of these cheeses. Thus, we created an extensive database of Texas-made cheeses to help new customers choose a Texas cheese for them based on general cheese characteristics. 
+
+### Communication Protocol
+
+<img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
+
 
 
 # Framework
