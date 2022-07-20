@@ -56,37 +56,52 @@ The Cheesery is an online cheese shop focused on cheese created in Texas.
 Machine Learning Model
 ----
 
-## Preliminary feature selection and engineering
+### Preliminary feature selection and engineering
 
-*
-* 
+* Fill in null values
+* Drop aroma data, similar to flavor
+* Remove state data, all are in Texas
 
-## Preliminary data processing
+### Preliminary data processing
 
-* Filled in null values with correct characteristics on cheese.
-* Identified data types within dataframe.
+* Review data
+  * Identified data types within dataframe.
+  * Plan to use flavor as a machine learning feature
+* Create and edit features of the machine learning model
+* Prepare the data for processing
+* Prepare for machine learning
 
-## About our model
-## Training the machine learning model
-## Interpreting the machine learning model
+### About our model
+
+* Model chosen: Supervised learning machine model
+   * Advantages:
+   * Limitations:
+
+### Training the machine learning model
+
+### Interpreting the machine learning model
 
 Database
 ----
 
-For our Database, we decided to collect our own data points on cheese from multiple sources because we could not find a singular 
-source that could provide all of the information that we were seeking.
+### Description of database
 
-Description of database
-----
+Database chosen: SQL via PGadmin
 
-Our database is filled with a sophisticated selection of different ways to classify cheese. To begin the header titles we have, Names where one can find the many different names of cheese, then to follow we have Company, Location, Price, Milk, Origin, Family, Type, Texture, Color, Flavor, Vegetarian.  
+![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
+
+![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
+
+The Texas Cheese database was created by our team to include Texan cheesemakers, location, cheeses sold, price, cheese family, flavor, and more.
 
 Analytic Process
 ----
 
-## Data Exploration Phase
-## Data Analysis Phase
-# Tools Used
+### Data Exploration Phase
+
+
+### Data Analysis Phase
+### Tools Used
 
 Presentation
 ----
