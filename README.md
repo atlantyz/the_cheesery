@@ -21,14 +21,12 @@ This project created a database of cheeses made and sold in Texas, from a variet
 
 The Cheesery is an online cheese shop that highlights cheeses from Texan cheesemakers. Because these cheeses are primarily available in Texas, new customers may not be familiar with the flavor and texture of these cheeses. Thus, we created an extensive database of Texas-made cheeses to help new customers choose a Texas cheese for them based on general cheese characteristics. 
 
+# Framework
+----
+
 ### Communication Protocol
 
 <img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
-
-
-
-# Framework
-----
 
 ## Source Data
 
@@ -36,7 +34,14 @@ The preliminary data contains the following details of cheeses:
 
 * 
 
+<img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
+
+
 ## Data Focus
+
+### Flavor
+
+### Price
 
 ### Location
 Being that The Cheesery is located in Texas, we will be using Texas cheeses as our initial focus. There is a Texas cheese for everyone and we want to use previous experiences for customers to find something they may love locally.
