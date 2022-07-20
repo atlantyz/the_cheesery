@@ -27,7 +27,7 @@ Framework
 
 <img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
 
-## Source Data
+### Source Data
 
 Following extensive research, we created a database that detailed the variety of cheeses that are made and sold in Texas, by Texan cheesemakers. In addition to the details of individual cheeses from the Texas cheesemakers, we added general cheese data, including cheese family and texture, from Cheese.com. 
 
@@ -39,17 +39,17 @@ This data contains specific and general details of cheese from Texan cheesemaker
 <img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
 
 
-## Data Focus
+### Data Focus
 
-### Flavor
+#### Flavor
 
 The most important aspect of a food product is the taste! The goal of this project is to be able to accurately suggest a Texas cheese that new customers will enjoy based on similar cheese flavor and texture. 
 
-### Price
+#### Price
 
 The price of each cheese can be a determining factor for new customers. Thus, our Texas Cheese database includes cheeses with a range of prices (by ounce) so that all customers can find a Texas cheese for their budget. 
 
-### Location
+#### Location
 
 The Cheesery is an online cheese shop focused on cheese created in Texas.  
 
