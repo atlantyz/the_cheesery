@@ -1,5 +1,8 @@
 # the_cheesery
 
+![cheese logo](https://user-images.githubusercontent.com/79942792/180105417-d71c34c3-0068-489f-bb05-9bfc521838e3.jpg)
+
+
 Table of Contents
 ----
 * Overview
