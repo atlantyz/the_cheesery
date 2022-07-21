@@ -80,9 +80,9 @@ Machine Learning Model
    * Advantages:
    * Limitations:
 
-### Training the machine learning model
+### Training the Model
 
-### Interpreting the machine learning model
+### Interpreting the Model
 
 Database
 ----
@@ -102,6 +102,21 @@ Analytic Process
 
 ### Data Exploration Phase
 
+Data was compiled using the information avaialble on Texas cheesemker's websites and the Cheese.com reference cheese catalog. 
+
+Data from Texas Cheesemakers includes:
+* Company name
+* Location
+* Cheese name
+* Price
+* Cheese description
+* Milk type
+* Cheese color
+
+Data from Cheese.com includes: 
+* Traditional country of origin
+* Cheese family
+* Cheese type
 
 ### Data Analysis Phase
 ### Tools Used
