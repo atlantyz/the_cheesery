@@ -118,7 +118,7 @@ Presentation
 ----
 
 ## The Dashboard
-![dashboard](https://github.com/rryl/the_cheesery/blob/81256220f07480afe3ad1cf485b8dbed194380b0/resources/CheeseryTableau.png)
+![dashboard](https://github.com/rryl/the_cheesery/blob/d139e25bc058936fcfbffe520e19cab4ce31d56e/resources/CheeseryTableau.png)
 
 Using Tableau and the dashboard, customers are able to:
 * Filter elements of the dashboard and see how others are affected.
