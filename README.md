@@ -118,6 +118,19 @@ Presentation
 ----
 
 ## The Dashboard
+![dashboard](https://github.com/rryl/the_cheesery/blob/f7ad054960d35e1862de4392154f5d7c5e891cf3/resources/Cheesery.png)
+
+Using Tableau and the dashboard, customers are able to:
+* Filter elements of the dashboard and see how others are affected.
+* Learn more about cheese and its characteristics
+
+Elements:
+* Location Distribution
+* Vegetarian Percentage
+* Flavor Count
+* Avg Price by Milk
+* Avg Price by Family
+
 
 ## Google Slides
 
