@@ -60,25 +60,18 @@ Machine Learning Model
 ----
 
 ### Preliminary feature selection and engineering
+- Review colmuns for typos and data types
+- Adjust column names to fit in with database 
+- Drop null values (needed for clean data)
 
-* Fill in null values
-* Drop aroma data, similar to flavor
-* Remove state data, all are in Texas
 
 ### Preliminary data processing
 
-* Review data
-  * Identified data types within dataframe.
-  * Plan to use flavor as a machine learning feature
-* Create and edit features of the machine learning model
-* Prepare the data for processing
-* Prepare for machine learning
+
 
 ### About our model
+ - Model: either going t be KNNeighbor or RandomForestClassifier
 
-* Model chosen: Supervised learning machine model
-   * Advantages:
-   * Limitations:
 
 ### Training the Model
 
