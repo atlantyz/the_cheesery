@@ -146,3 +146,4 @@ Conclusion
 
 ## Links
 Tableau Dashboard: https://public.tableau.com/app/profile/alisha.lopez/viz/CheeseryAnalysis/Dashboard1?publish=yes
+Google Slides: https://docs.google.com/presentation/d/1Q1fYu6wri5ixYhDtw178P070nDuyyvgeQGAQY8FjWeA/edit#slide=id.p
