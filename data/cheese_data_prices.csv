@@ -1,0 +1,104 @@
+cheese,company,city,price,milk,country,origin,classification,texture,color,flavor,vegetarian,price_bins
+crescenza,mozzarella company,other city,9.39,cow,italy,italian,other classes,creamy,white,sweet,yes,$5-10
+smoked scamorza,mozzarella company,other city,15.59,cow,italy,pasta filata,semi soft,other textures,white,smokey,no,$15-20
+smoked mozzarella,mozzarella company,other city,10.79,cow,italy,mozzarella,semi soft,other textures,white,smokey,yes,$10-15
+queso oaxaca,mozzarella company,other city,11.99,cow,mexico,pasta filata,semi hard,other textures,white,buttery,yes,$10-15
+queso fresco,mozzarella company,other city,10.79,cow,mexico,cottage,other classes,other textures,white,milky,yes,$10-15
+queso blanco,mozzarella company,other city,10.79,cow,mexico,cottage,other classes,other textures,white,milky,yes,$10-15
+queso blanco with chiles and epazote,mozzarella company,other city,12.69,cow,mexico,cottage,other classes,other textures,white,spicy,yes,$10-15
+fresh cream cheese,mozzarella company,other city,7.29,cow,united states,cream cheese,other classes,creamy,white,sweet,yes,$5-10
+feta,mozzarella company,other city,9.49,cow,greece,feta,other classes,other textures,white,tangy,no,$5-10
+deep ellum blue,mozzarella company,other city,10.79,cow,united states,blue,semi soft,creamy,other colors,tangy,no,$10-15
+creme fraiche,mozzarella company,other city,7.59,cow,france,cultured,other classes,creamy,white,tangy,no,$5-10
+cella,mozzarella company,other city,9.39,other milk,united states,mozzarella,semi soft,creamy,yellow,tangy,yes,$5-10
+ricotta,mozzarella company,other city,5.69,cow,italy,cottage,other classes,creamy,white,sweet,no,$5-10
+capriella,mozzarella company,other city,10.69,cow,united states,mozzarella,semi soft,other textures,white,milky,yes,$10-15
+caciocavallo,mozzarella company,other city,18.19,cow,italy,pasta filata,semi soft,other textures,yellow,tangy,no,$15-20
+burrata con crema,mozzarella company,other city,11.39,cow,other country,mozzarella,semi soft,creamy,white,buttery,no,$10-15
+burrata of mozzarella,mozzarella company,other city,11.39,cow,italy,mozzarella,semi soft,creamy,white,milky,no,$10-15
+triple creme cheese,mozzarella company,other city,10.49,cow,united states,cream cheese,other classes,creamy,white,sweet,yes,$10-15
+baby caciotta,mozzarella company,other city,28.19,cow,united states,monterey jack,semi soft,creamy,cream,tangy,no,$20-30
+caciotta,mozzarella company,other city,9.39,cow,united states,monterey jack,semi soft,creamy,cream,tangy,no,$5-10
+mascarpone torta,mozzarella company,other city,13.49,cow,italy,mozzarella,semi soft,creamy,cream,sweet,yes,$10-15
+mascarpone,mozzarella company,other city,11.39,cow,italy,mozzarella,semi soft,creamy,white,milky,yes,$10-15
+bocconcini,mozzarella company,other city,22.59,cow,italy,mozzarella,semi soft,other textures,white,buttery,no,$20-30
+scamorza,mozzarella company,other city,15.59,cow,italy,pasta filata,semi soft,other textures,white,sweet,yes,$15-20
+queso menonina (menonita),mozzarella company,other city,9.69,cow,mexico,cheddar,semi soft,other textures,pale yellow,sharp,yes,$5-10
+dolce habenero,mozzarella company,other city,11.29,cow,mexico,pasta filata,soft,creamy,yellow,spicy,yes,$10-15
+biervesa,mozzarella company,other city,11.99,cow,united states,cheddar,semi soft,creamy,white,fruity,no,$10-15
+burrata stracciatella,mozzarella company,other city,11.99,cow,italy,mozzarella,semi soft,creamy,white,milky,no,$10-15
+bosque blue,veldhuzen cheese,dublin ,11.5,cow/sheep,united states,blue,semi soft,creamy,pale yellow,tangy,no,$10-15
+caraway cheddar,veldhuzen cheese,dublin ,10.5,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+hatch green chili havarti,veldhuzen cheese,dublin ,12.0,cow/sheep,united states,havarti,semi soft,compact,pale yellow,buttery,no,$10-15
+classic cheddar,veldhuzen cheese,dublin ,10.0,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$5-10
+double barrel cheddar,veldhuzen cheese,dublin ,12.5,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+vintage cheddar,veldhuzen cheese,dublin ,14.0,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+dublin karst,veldhuzen cheese,dublin ,11.5,cow/sheep,united states,"cheddar, gruyere",semi soft,compact,pale yellow,sharp,no,$10-15
+fat tailed tomme,veldhuzen cheese,dublin ,18.0,cow/sheep,france,tomme,semi soft,other textures,pale yellow,buttery,no,$15-20
+gouda,veldhuzen cheese,dublin ,10.0,cow/sheep,netherlands,gouda,semi hard,compact,yellow,nutty,no,$5-10
+jalapeno cheddar,veldhuzen cheese,dublin ,10.5,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+mixed milk gouda,veldhuzen cheese,dublin ,11.0,cow/sheep,netherlands,gouda,semi hard,compact,yellow,nutty,no,$10-15
+ol' redneck cheddar,veldhuzen cheese,dublin ,14.0,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+paragon,veldhuzen cheese,dublin ,10.0,cow/sheep,united states,paragon,semi hard,compact,pale yellow,tangy,,$5-10
+greens creek,veldhuzen cheese,dublin ,11.0,cow/sheep,other country,gruyere,other classes,compact,pale yellow,sweet,no,$10-15
+redneck cheddar,veldhuzen cheese,dublin ,11.0,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+sharp shooter cheddar,veldhuzen cheese,dublin ,11.5,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+shepherds blend,veldhuzen cheese,dublin ,11.0,other milk,united states,manchego,semi soft,creamy,pale yellow,nutty,no,$10-15
+texas gold cheddar,veldhuzen cheese,dublin ,10.5,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$10-15
+sheep cheddar,veldhuzen cheese,dublin ,15.5,cow/sheep,england,cheddar,semi hard,compact,pale yellow,sharp,no,$15-20
+sheep gouda,veldhuzen cheese,dublin ,18.0,cow/sheep,netherlands,gouda,semi hard,compact,yellow,nutty,no,$15-20
+wooly texas,veldhuzen cheese,dublin ,18.0,other milk,united states,gruyere,semi soft,compact,pale yellow,sweet,no,$15-20
+chevre,cadence creamery,other city,7.99,goat,france,chevre,soft,creamy,white,tart,no,$5-10
+chevre with maple and chipotle,cadence creamery,other city,7.99,goat,france,chevre,soft,creamy,white,tart,no,$5-10
+feta,cadence creamery,other city,13.49,goat,greece,feta,other classes,creamy,white,tangy,no,$10-15
+ash chevre,rebel cheese,austin ,2.5,cashew,united states,vegan,soft,creamy,white,tangy,yes,less than $5
+chebrie,rebel cheese,austin ,3.0,cashew,united states,vegan,soft,creamy,white,sharp,yes,less than $5
+honee pistachio chevre,rebel cheese,austin ,2.5,cashew,united states,vegan,soft,creamy,white,nutty,yes,less than $5
+blueberry vanilla chevre,rebel cheese,austin ,2.5,cashew,united states,vegan,soft,creamy,white,sweet,yes,less than $5
+dill havarti,rebel cheese,austin ,2.5,cashew,united states,vegan,semi soft,creamy,white,sweet,yes,less than $5
+garlic herb fromage,rebel cheese,austin ,2.25,cashew,united states,vegan,soft,creamy,white,herby,yes,less than $5
+cinnamon and cognac gjetost,rebel cheese,austin ,2.25,cashew,united states,vegan,semi soft,creamy,other colors,sweet,yes,less than $5
+gruyere,rebel cheese,austin ,,other milk,united states,vegan,semi soft,compact,white,nutty,yes,
+mozzarella,rebel cheese,austin ,2.0,cashew,united states,vegan,soft,creamy,white,tangy,yes,less than $5
+parmesan,rebel cheese,austin ,2.25,cashew,united states,vegan,other classes,creamy,cream,umami,yes,less than $5
+pepperjack,rebel cheese,austin ,2.25,cashew,united states,vegan,other classes,creamy,white,spicy,yes,less than $5
+spanish paprika chevre,rebel cheese,austin ,2.5,cashew,united states,vegan,soft,creamy,white,smokey,yes,less than $5
+sun-dried tomato herb fromage,rebel cheese,austin ,2.25,cashew,united states,vegan,soft,creamy,white,herby,yes,less than $5
+truffle brie,rebel cheese,austin ,3.0,cashew,united states,vegan,soft,creamy,pale yellow,umami,yes,less than $5
+lemon dill black,rebel cheese,austin ,2.25,cashew,united states,vegan,soft,creamy,white,tangy,yes,less than $5
+smoked cheddar,rebel cheese,austin ,2.75,cashew,united states,vegan,soft,creamy,yellow,smokey,yes,less than $5
+brie,rebel cheese,austin ,3.0,cashew,united states,vegan,soft,creamy,white,nutty,yes,less than $5
+truffle chevre,rebel cheese,austin ,2.5,cashew,united states,vegan,soft,creamy,white,umami,yes,less than $5
+reine trufflehound,rebel cheese,austin ,2.75,cashew,united states,vegan,soft,creamy,cream,umami,yes,less than $5
+reine fauxgonzola,rebel cheese,austin ,2.75,cashew,united states,vegan,soft,creamy,other colors,tart,yes,less than $5
+reine heirloom tomato,rebel cheese,austin ,2.75,cashew,united states,vegan,soft,creamy,other colors,herby,yes,less than $5
+goat's revolt olive herb mozzarella,rebel cheese,austin ,2.25,other milk,united states,vegan,soft,creamy,cream,herby,yes,less than $5
+fig and black pepper chevre,haute goat creamery,other city,7.95,goat,france,chevre,soft,creamy,white,tangy,no,$5-10
+candied jalapenio chevre,haute goat creamery,other city,7.95,goat,france,chevre,soft,creamy,white,spicy,no,$5-10
+basil pesto chevre,haute goat creamery,other city,7.95,goat,france,chevre,soft,creamy,white,spicy,no,$5-10
+chimichurri chevre,haute goat creamery,other city,7.95,goat,france,chevre,soft,creamy,white,herby,no,$5-10
+blueberry chipotle chevre,haute goat creamery,other city,7.95,goat,france,chevre,soft,creamy,white,sweet,no,$5-10
+au naturel chevre,,,7.95,goat,france,chevre,soft,creamy,white,tart,no,$5-10
+texas heat chevre,haute goat creamery,other city,7.95,goat,france,chevre,soft,creamy,white,spicy,no,$5-10
+raw cow's milk gouda,haute goat creamery,other city,8.95,cow,united states,gouda,other classes,creamy,yellow,nutty,no,$5-10
+feta,haute goat creamery,other city,9.5,goat,greece,feta,other classes,creamy,white,tangy,no,$5-10
+sweet grass,haute goat creamery,other city,8.95,cow,united states,raw milk,semi soft,creamy,other colors,umami,no,$5-10
+buttercup,haute goat creamery,other city,12.75,goat,united states,brie,soft,creamy,cream,buttery,no,$10-15
+ghost pepper cheddar,brazos valley cheese,waco ,16.5,cow,england,cheddar,semi hard,compact,pale yellow,spicy,no,$15-20
+horseradish pecan cheddar,brazos valley cheese,waco ,16.5,cow,england,cheddar,semi hard,compact,pale yellow,spicy,no,$15-20
+truffle gold,brazos valley cheese,waco ,16.5,cow,england,cheddar,semi hard,compact,cream,umami,no,$15-20
+van sormon,brazos valley cheese,waco ,16.5,cow,united states,cheddar,semi hard,compact,cream,tangy,no,$15-20
+black garlic havarti,brazos valley cheese,waco ,16.5,cow,united states,havarti,semi soft,creamy,pale yellow,buttery,no,$15-20
+extra aged cheddar,brazos valley cheese,waco ,19.0,cow,england,cheddar,semi hard,compact,pale yellow,sharp,no,$15-20
+montasio,brazos valley cheese,waco ,16.5,cow,italy,montasio,semi soft,creamy,pale yellow,sweet,no,$15-20
+morel montasio,brazos valley cheese,waco ,16.5,cow,italy,montasio,semi soft,creamy,pale yellow,sweet,no,$15-20
+parmesan,brazos valley cheese,waco ,16.5,cow,italy,parmesan,other classes,other textures,other colors,umami,no,$15-20
+plain gouda,brazos valley cheese,waco ,16.5,cow,netherlands,gouda,semi hard,compact,yellow,nutty,no,$15-20
+smoked gouda,brazos valley cheese,waco ,16.5,cow,netherlands,gouda,semi hard,compact,yellow,smokey,no,$15-20
+smoked white cheddar,brazos valley cheese,waco ,16.5,cow,england,cheddar,semi hard,compact,pale yellow,smokey,no,$15-20
+brie,brazos valley cheese,waco ,16.5,cow,united states,brie,soft,creamy,cream,nutty,no,$15-20
+feta,brazos valley cheese,waco ,15.0,cow,greece,feta,other classes,other textures,white,tangy,no,$10-15
+marinated feta,brazos valley cheese,waco ,14.0,cow,greece,feta,other classes,other textures,white,herby,no,$10-15
+marinated labneh,brazos valley cheese,waco ,14.0,cow,other country,labneh,soft,creamy,white,herby,no,$10-15
+mountain maple brie,brazos valley cheese,waco ,22.5,cow,united states,brie,soft,creamy,cream,sweet,no,$20-30
+orchard blue,brazos valley cheese,waco ,16.5,cow,united states,blue,semi soft,creamy,pale yellow,tangy,no,$15-20
