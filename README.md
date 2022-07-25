@@ -18,7 +18,7 @@ Overview
 ----
 ### Description
 
-For this project, we created a database of cheeses made and sold in Texas, from a variety of Texas cheesemakers. Our new online shop, The Cheesery, will use this database to create a machine learning model that will recommend a Texas cheese for new customers, using cheese characteristics, including flavor and texture. This project will provide engaging visualizations and a fun recommendation survey.
+For this project, we created a database of cheeses made and sold in Texas, from a variety of Texas cheesemakers. Our new online shop, The Cheesery, will use this database to create a machine learning model that will be able to identify Texas-based cheeses based on price and flavor. This project will provide engaging visualizations and a fun recommendation survey.
 
 ### Background
 
