@@ -60,13 +60,13 @@ Machine Learning Model
 ----
 
 ### Preliminary feature selection and engineering
-- Review colmuns for typos and data types
+- Review colmuns for nulls and data types
 - Adjust column names to fit in with database 
 - Drop null values (needed for clean data)
+- Checked unique values for each feature to determine which would be best for use 
 
-
-### Preliminary data processing
-
+### Preliminary data preprocessing
+- Reviewing value_counts of data: 
 
 
 ### About our model
