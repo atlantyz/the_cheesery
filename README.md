@@ -66,16 +66,30 @@ Machine Learning Model
 - Checked unique values for each feature to determine which would be best for use 
 
 ### Preliminary data preprocessing
-- Reviewing value_counts of data: 
-
-
-### About our model
- - Model: either going t be KNNeighbor or RandomForestClassifier
-
+- Reviewing value_counts of data; This helped to determine potental target data within the dataset.
+- Realized that using 'cheese name' would create issues when trying to encode variables and run model.
+- Encoded data using OneHotEncoder, fit and transformed the data
+- Then, adjusted the working dataset to contain only fields used by machine learning model
+- Split preprocessed data into our feature and target arrays
 
 ### Training the Model
+- Split the preprocessed data into a training and testing dataset for the ML model
+- Fit the data and run beginning predictions
 
-### Interpreting the Model
+### About our model
+- Model Used: KNNeighborClassifier
+
+Advantages:
+- Successful in handling classification data that is not binary
+- Known for being useful in large datasets
+
+Limitations:
+- Has trouble reading some data types
+- Takes a large amount of computing power
+
+
+
+
 
 Database
 ----
