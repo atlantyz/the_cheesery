@@ -1,18 +1,5 @@
-# the_cheesery
+# The Cheesery
 
-![cheese logo](https://user-images.githubusercontent.com/79942792/180106093-b8d209b7-31bd-42a2-8458-1f59e142e12d.jpg)
-
-
-Table of Contents
-----
-* Overview
-* Framework
-* Machine Learning Model
-* Database
-* Analytic Process
-* Presentation
-* Results
-* Conclusion
 
 Overview
 ----
