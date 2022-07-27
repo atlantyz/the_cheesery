@@ -26,6 +26,13 @@ This data contains specific and general details of cheese from Texan cheesemaker
 
 ### The Database
 
+words
+<img
+  src="[/path/to/img.jpg](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 ![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
 
 Cleaned Dataset
