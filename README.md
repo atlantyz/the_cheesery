@@ -2,9 +2,9 @@
 
 **Topic**: Texas Cheese Finder
 
-**Dashboard**: [Here is our dashboard](https://www.google.com)
+**Dashboard**: [The Dashboard](https://www.google.com)
 
-**Presentation**: [Here is our final presentation](https://www.google.com)
+**Presentation**: [The Final Presentation](https://www.google.com)
 
 ## The Purpose
 
@@ -29,9 +29,7 @@ This data contains specific and general details of cheese from Texan cheesemaker
 
 **Database chosen**: SQL via PGadmin
 
-![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
-
-![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
+![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
 
 Data was compiled using the information avaialble on Texas cheesemker's websites and the Cheese.com reference cheese catalog. 
 
@@ -52,6 +50,16 @@ Data from Cheese.com includes:
 
 ## The Machine Learning Model
 
+### About our model
+- Model Used: KNNeighborClassifier
+
+Advantages:
+- Successful in handling classification data that is not binary
+- Known for being useful in large datasets
+
+Limitations:
+- Has trouble reading some data types
+- Takes a large amount of computing power
 
 ### Preliminary feature selection and engineering
 - Review colmuns for nulls and data types
@@ -69,18 +77,6 @@ Data from Cheese.com includes:
 ### Training the Model
 - Split the preprocessed data into a training and testing dataset for the ML model
 - Fit the data and run beginning predictions
-
-### About our model
-- Model Used: KNNeighborClassifier
-
-Advantages:
-- Successful in handling classification data that is not binary
-- Known for being useful in large datasets
-
-Limitations:
-- Has trouble reading some data types
-- Takes a large amount of computing power
-
 
 
 ## The Dashboard
