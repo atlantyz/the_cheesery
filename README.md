@@ -87,7 +87,7 @@ Limitations:
 ## The Conclusion
 
 
-
+---
 ### The Project Details
 
 #### The Communication Protocol
