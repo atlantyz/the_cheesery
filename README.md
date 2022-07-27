@@ -1,7 +1,9 @@
 # The Cheesery
 
 Topic: Texas Cheese Finder
+
 Dashboard: [Here is our dashboard](https://www.google.com)
+
 Presentation: [Here is our final presentation](https://www.google.com)
 
 The Purpose
