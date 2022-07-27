@@ -18,20 +18,24 @@ The purpose of this project is to create a database of cheese, made and sold in 
 
 Following extensive research, we created a database that detailed the variety of cheeses that are made and sold in Texas, by Texan cheesemakers. In addition to the details of individual cheeses from the Texas cheesemakers, we added general cheese data, including cheese family and texture, from Cheese.com. 
 
-This data contains specific and general details of cheese from Texan cheesemakers:
-* Location: Where in Texas the cheesemaker is located. 
-* Company: The Texas cheesemaker's business name.
-* Cheese identification details: price, milk type, cheese family, (traditional) country of origin, type, texture, etc.
+List of Texas Cheesemakers:
 
+[The Mozarella Company](https://www.mozzco.com/)
+[Veldhuizen Cheese](https://www.veldhuizencheese.com/)
+[Cadence Creamery](https://www.cadencecreamery.com/)
+[Rebel Austin](https://www.rebelcheese.com/)
+[Haute Goat Creamery](https://www.hautegoatcreamery.com/)
+[Brazos Valley Cheese](https://www.brazosvalleycheese.com/)
+
+[The Cheese.com Database](https://cheese.com/)
 
 ### The Database
 
 words
 <img
-  src="[https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png]"
+  src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
 
 Cleaned Dataset
 
