@@ -7,15 +7,14 @@
 **Presentation**: [Here is our final presentation](https://www.google.com)
 
 ## The Purpose
-----
+
 
 The purpose of this project is to create a database of cheese, made and sold in Texas, to create an interactive dashboard and to use machine learning to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery.
 
 
 ## The Data and Database
-----
 
-### Source Data
+### The Data
 
 Following extensive research, we created a database that detailed the variety of cheeses that are made and sold in Texas, by Texan cheesemakers. In addition to the details of individual cheeses from the Texas cheesemakers, we added general cheese data, including cheese family and texture, from Cheese.com. 
 
@@ -26,20 +25,33 @@ This data contains specific and general details of cheese from Texan cheesemaker
 
 <img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
 
+### The Database
 
-### Data Focus
+**Database chosen**: SQL via PGadmin
 
-#### Flavor
+![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
+
+![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
+
+Data was compiled using the information avaialble on Texas cheesemker's websites and the Cheese.com reference cheese catalog. 
+
+Data from Texas Cheesemakers includes:
+* Company name
+* Location
+* Cheese name
+* Price
+* Cheese description
+* Milk type
+* Cheese color
+
+Data from Cheese.com includes: 
+* Traditional country of origin
+* Cheese family
+* Cheese type
 
 
-#### Price
+## The Machine Learning Model
 
-
-#### Location
-
-
-Machine Learning Model
-----
 
 ### Preliminary feature selection and engineering
 - Review colmuns for nulls and data types
@@ -70,48 +82,6 @@ Limitations:
 - Takes a large amount of computing power
 
 
-
-
-
-Database
-----
-
-### Description of database
-
-Database chosen: SQL via PGadmin
-
-![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
-
-![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
-
-The Texas Cheese database was created by our team to include Texan cheesemakers, location, cheeses sold, price, cheese family, flavor, and more.
-
-Analytic Process
-----
-
-### Data Exploration Phase
-
-Data was compiled using the information avaialble on Texas cheesemker's websites and the Cheese.com reference cheese catalog. 
-
-Data from Texas Cheesemakers includes:
-* Company name
-* Location
-* Cheese name
-* Price
-* Cheese description
-* Milk type
-* Cheese color
-
-Data from Cheese.com includes: 
-* Traditional country of origin
-* Cheese family
-* Cheese type
-
-### Data Analysis Phase
-### Tools Used
-
-Presentation
-----
 
 ## The Dashboard
 ![dashboard](https://github.com/rryl/the_cheesery/blob/d139e25bc058936fcfbffe520e19cab4ce31d56e/resources/CheeseryTableau.png)
