@@ -27,31 +27,22 @@ This data contains specific and general details of cheese from Texan cheesemaker
 
 ### The Database
 
-**Database chosen**: SQL via PGadmin
+![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
 
-![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
 
-Data was compiled using the information avaialble on Texas cheesemker's websites and the Cheese.com reference cheese catalog. 
+![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
 
-Data from Texas Cheesemakers includes:
-* Company name
-* Location
-* Cheese name
-* Price
-* Cheese description
-* Milk type
-* Cheese color
+Cleaned Dataset
+<img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
 
-Data from Cheese.com includes: 
-* Traditional country of origin
-* Cheese family
-* Cheese type
 
+
+![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
 
 ## The Machine Learning Model
 
 ### About our model
-- Model Used: KNNeighborClassifier
+**Model Used**: KNNeighborClassifier
 
 Advantages:
 - Successful in handling classification data that is not binary
@@ -97,12 +88,14 @@ Elements:
 
 
 
-Results
-----
+## Results
 
-Conclusion
-----
 
+## Conclusion
+
+
+---
+## Project Details
 
 ### Communication Protocol
 
