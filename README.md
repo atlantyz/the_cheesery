@@ -1,21 +1,17 @@
 # The Cheesery
 
+Topic: Texas Cheese Finder
+Dashboard: [Here is our dashboard](https://www.google.com)
+Presentation: [Here is our final presentation](https://www.google.com)
 
-Overview
+The Purpose
 ----
-### Description
 
-For this project, we created a database of cheeses made and sold in Texas, from a variety of Texas cheesemakers. Our new online shop, The Cheesery, will use this database to create a machine learning model that will be able to identify Texas-based cheeses based on price and flavor. This project will provide engaging visualizations and a fun recommendation survey.
+The purpose of this project is to create a database of cheese, made and sold in Texas, to create an interactive dashboard and to use machine learning to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery.
 
-### Background
 
-The Cheesery is an online cheese shop that highlights cheeses from Texan cheesemakers. Because these cheeses are primarily available in Texas, new customers may not be familiar with the flavor and texture of these cheeses. Thus, we created an extensive database of Texas-made cheeses to help new customers choose a Texas cheese for them based on general cheese characteristics. 
-
-Framework
+The Data and Database
 ----
-### Communication Protocol
-
-<img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
 
 ### Source Data
 
@@ -33,15 +29,12 @@ This data contains specific and general details of cheese from Texan cheesemaker
 
 #### Flavor
 
-The most important aspect of a food product is the taste! The goal of this project is to be able to accurately suggest a Texas cheese that new customers will enjoy based on similar cheese flavor and texture. 
 
 #### Price
 
-The price of each cheese can be a determining factor for new customers. Thus, our Texas Cheese database includes cheeses with a range of prices (by ounce) so that all customers can find a Texas cheese for their budget. 
 
 #### Location
 
-The Cheesery is an online cheese shop focused on cheese created in Texas.  
 
 Machine Learning Model
 ----
@@ -133,7 +126,6 @@ Elements:
 * Avg Price by Family
 
 
-## Google Slides
 
 
 
@@ -143,8 +135,7 @@ Results
 Conclusion
 ----
 
-## Recommendations
 
-## Links
-Tableau Dashboard: https://public.tableau.com/app/profile/alisha.lopez/viz/CheeseryAnalysis/Dashboard1?publish=yes
-Google Slides: https://docs.google.com/presentation/d/1Q1fYu6wri5ixYhDtw178P070nDuyyvgeQGAQY8FjWeA/edit#slide=id.p
+### Communication Protocol
+
+<img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
