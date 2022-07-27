@@ -18,27 +18,24 @@ The purpose of this project is to create a database of cheese, made and sold in 
 
 words words words
 
-**The List of Texas Cheesemakers**:
+<img align = "right" img width="600" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png"
+style="display: inline-block">
 
-[The Mozarella Company](https://www.mozzco.com/)
+| **The List of Texas Cheesemakers**|
+|-----|
+| [The Mozarella Company](https://www.mozzco.com/) |
+| [Veldhuizen Cheese](https://www.veldhuizencheese.com/)|
+| [Cadence Creamery](https://www.cadencecreamery.com/)|
+| [Rebel Austin](https://www.rebelcheese.com/)|
+| [Haute Goat Creamery](https://www.hautegoatcreamery.com/)| 
+| [Brazos Valley Cheese](https://www.brazosvalleycheese.com/) | 
 
-[Veldhuizen Cheese](https://www.veldhuizencheese.com/)
-
-[Cadence Creamery](https://www.cadencecreamery.com/)
-
-[Rebel Austin](https://www.rebelcheese.com/)
-
-[Haute Goat Creamery](https://www.hautegoatcreamery.com/)
-
-[Brazos Valley Cheese](https://www.brazosvalleycheese.com/)
 
 **The Cheese.com Database**:
 
-[Cheese.com](https://cheese.com/)
+[Cheese.com](https://cheese.com/) 
 
 ### The Database
-
-<img width="1000" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png">
 
 words words words
 <img
