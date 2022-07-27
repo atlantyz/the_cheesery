@@ -1,18 +1,18 @@
 # The Cheesery
 
-Topic: Texas Cheese Finder
+**Topic**: Texas Cheese Finder
 
-Dashboard: [Here is our dashboard](https://www.google.com)
+**Dashboard**: [Here is our dashboard](https://www.google.com)
 
-Presentation: [Here is our final presentation](https://www.google.com)
+**Presentation**: [Here is our final presentation](https://www.google.com)
 
-The Purpose
+## The Purpose
 ----
 
 The purpose of this project is to create a database of cheese, made and sold in Texas, to create an interactive dashboard and to use machine learning to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery.
 
 
-The Data and Database
+## The Data and Database
 ----
 
 ### Source Data
