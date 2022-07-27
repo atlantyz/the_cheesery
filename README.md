@@ -4,7 +4,7 @@
 
 **Dashboard**: [The Dashboard](https://www.google.com)
 
-**Presentation**: [The Final Presentation](https://www.google.com)
+**Presentation**: [The Final Presentation](https://docs.google.com/presentation/d/1SVYNtrikItm9xgU9gQEdv__-XDalqVad2gs2nYSHae4/edit?usp=sharing)
 
 ## The Purpose
 
@@ -53,13 +53,11 @@ words words words
 ### About our model
 **Model Used**: KNNeighborClassifier
 
-Advantages:
-- Successful in handling classification data that is not binary
-- Known for being useful in large datasets
+| Advantages | Limitations|
+| -----------| -----------|
+| Successful in handling classification data that is not binary | Has trouble reading some data types |
+| Known for being useful in large datasets                      | Takes a large amount of computing power |
 
-Limitations:
-- Has trouble reading some data types
-- Takes a large amount of computing power
 
 ### Preliminary feature selection and engineering
 - Review colmuns for nulls and data types
@@ -80,6 +78,8 @@ Limitations:
 
 
 ## The Dashboard
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/79942792/181353232-8674abc2-c5ea-4526-92b0-58a8100db0d8.gif)
 
 ## The Results
 
