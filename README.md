@@ -23,16 +23,13 @@ This data contains specific and general details of cheese from Texan cheesemaker
 * Company: The Texas cheesemaker's business name.
 * Cheese identification details: price, milk type, cheese family, (traditional) country of origin, type, texture, etc.
 
-<img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
 
 ### The Database
 
 ![QuickDBD-export (2)](https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png)
 
-
-![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
-
 Cleaned Dataset
+
 <img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
 
 
