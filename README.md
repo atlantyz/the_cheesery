@@ -16,34 +16,37 @@ The purpose of this project is to create a database of cheese, made and sold in 
 
 ### The Data
 
-Following extensive research, we created a database that detailed the variety of cheeses that are made and sold in Texas, by Texan cheesemakers. In addition to the details of individual cheeses from the Texas cheesemakers, we added general cheese data, including cheese family and texture, from Cheese.com. 
+words words words
 
-List of Texas Cheesemakers:
+**The List of Texas Cheesemakers**:
 
 [The Mozarella Company](https://www.mozzco.com/)
+
 [Veldhuizen Cheese](https://www.veldhuizencheese.com/)
+
 [Cadence Creamery](https://www.cadencecreamery.com/)
+
 [Rebel Austin](https://www.rebelcheese.com/)
+
 [Haute Goat Creamery](https://www.hautegoatcreamery.com/)
+
 [Brazos Valley Cheese](https://www.brazosvalleycheese.com/)
 
-[The Cheese.com Database](https://cheese.com/)
+**The Cheese.com Database**:
+
+[Cheese.com](https://cheese.com/)
 
 ### The Database
 
-words
+words words words
 <img
   src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 
-Cleaned Dataset
 
-<img width="674" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png">
+<img width="400" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png"> <img width="400" alt="" src="https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png">
 
-
-
-![The_Cheesery's_Database](https://user-images.githubusercontent.com/79942792/180083945-3652d26e-ed0c-423d-8c0d-8f54115062a9.png)
 
 ## The Machine Learning Model
 
@@ -77,32 +80,16 @@ Limitations:
 
 
 ## The Dashboard
-![dashboard](https://github.com/rryl/the_cheesery/blob/d139e25bc058936fcfbffe520e19cab4ce31d56e/resources/CheeseryTableau.png)
 
-Using Tableau and the dashboard, customers are able to:
-* Filter elements of the dashboard and see how others are affected.
-* Learn more about cheese and its characteristics
+## The Results
 
-Elements:
-* Location Distribution
-* Vegetarian Percentage
-* Flavor Count
-* Avg Price by Milk
-* Avg Price by Family
+
+## The Conclusion
 
 
 
+### The Project Details
 
-
-## Results
-
-
-## Conclusion
-
-
----
-## Project Details
-
-### Communication Protocol
+#### The Communication Protocol
 
 <img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
