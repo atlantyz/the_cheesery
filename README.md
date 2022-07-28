@@ -52,11 +52,13 @@ words words words
 **Model Used**: KNNeighborClassifier
 
 
-### Preliminary feature selection and engineering
-- Review colmuns for nulls and data types
-- Adjust column names to fit in with database 
-- Drop null values (needed for clean data)
-- Checked unique values for each feature to determine which would be best for use 
+| Preliminary feature selection and engineering | Preliminary data preprocessing |
+| ------ | ----- | 
+| Review colmuns for nulls and data types | Reviewing value_counts of data; This helped to determine potental target data within the dataset |
+| Adjust column names to fit in with database | Realized that using 'cheese name' would create issues when trying to encode variables and run model |
+| Drop null values (needed for clean data) | Encoded data using OneHotEncoder, fit and transformed the data |
+| Checked unique values for each feature to determine which would be best for use | Adjusted the working dataset to contain only fields used by machine learning model |
+| | Split preprocessed data into our feature and target arrays |
 
 ### Preliminary data preprocessing
 - Reviewing value_counts of data; This helped to determine potental target data within the dataset.
