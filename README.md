@@ -51,6 +51,7 @@ words words words
 
 **Model Used**: KNNeighborClassifier
 
+The purpose of this study is to find a Texas Cheese for customers. Our team used supervised machine learning *** more words.
 
 | Preliminary feature selection and engineering | Preliminary data preprocessing |
 | ------ | ----- | 
@@ -60,12 +61,6 @@ words words words
 | Checked unique values for each feature to determine which would be best for use | Adjusted the working dataset to contain only fields used by machine learning model |
 | | Split preprocessed data into our feature and target arrays |
 
-### Preliminary data preprocessing
-- Reviewing value_counts of data; This helped to determine potental target data within the dataset.
-- Realized that using 'cheese name' would create issues when trying to encode variables and run model.
-- Encoded data using OneHotEncoder, fit and transformed the data
-- Then, adjusted the working dataset to contain only fields used by machine learning model
-- Split preprocessed data into our feature and target arrays
 
 ### Training the Model
 - Split the preprocessed data into a training and testing dataset for the ML model
