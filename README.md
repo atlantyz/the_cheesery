@@ -37,11 +37,15 @@ style="display: inline-block">
 
 ### The Database
 
+**The Entity Relationship Diagram (ERD)**
+
 words words words
 <img
   src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
+
+words words words 
 
 
 <img width="500" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png"> <img width="500" alt="" src="https://user-images.githubusercontent.com/79942792/181433420-fa44c26f-b6e8-447e-92f6-5595b0b77cfc.png">
@@ -68,18 +72,22 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 
 
 ## The Dashboard
+words words words
+
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/79942792/181353232-8674abc2-c5ea-4526-92b0-58a8100db0d8.gif)
 
 ## The Results
 
+words words words
 
 ## The Conclusion
 
+words words words
 
 ---
 ### The Project Details
 
-#### The Communication Protocol
+**The Communication Protocol**
 
 <img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
