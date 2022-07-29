@@ -9,14 +9,18 @@
 ## The Purpose
 
 
-The purpose of this project is to create a database of cheese, made and sold in Texas, to create an interactive dashboard and to use machine learning to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery.
+The purpose of this project is to create a database of Texas cheesemakers' cheese products, in addition to categorical cheese data, to find customers a Texas cheese they will enjoy. This project consists of the following elements: 
+
+1. **The Database**: Create a database of cheese and cheesemakers from Texas. 
+2. **The Dashboard**: Create an interactive dashboard that summarizes the cheese made and sold by Texas cheesemakers
+3. **The Texas Cheese Finder**: The Texas Cheese Finder will use a supervised machine learning model to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery.
 
 
 ## The Data and Database
 
 ### The Data
 
-words words words
+The data used to create the Texas cheese database was compiled from the Texas cheesemakers' websites and an online cheese database, containing categorical data that our team used to classify the Texas cheese. 
 
 <img align = "right" img width="600" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png"
 style="display: inline-block">
