@@ -41,9 +41,10 @@ style="display: inline-block">
 
 ### The Database
 
-**The Entity Relationship Diagram (ERD)**
+**The Entity Relationship Diagram**
 
-words words words
+Once our team created the Texas Cheese database, we created the Entity Relationship Diagram (ERD). The ERD denotes the data types of each category in our database--- 
+
 <img
   src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
