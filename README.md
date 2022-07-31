@@ -77,8 +77,20 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 
 
 ## The Dashboard
-words words words
+Using Tableau and the dashboard, customers are able to:
+* Filter elements of the dashboard and see how others are affected.
+* Learn more about cheese and its characteristics
 
+
+![tableau](https://github.com/rryl/the_cheesery/blob/aa865e2a0469306d7b50e47f352215a821f006d6/resources/CheeseryTableau.png)
+
+Elements:
+* Location Distribution
+* Vegetarian Percentage
+* Flavor Count
+* Avg Price by Milk
+* Avg Price by Family
+* Interactive Map of the Cheese Companies
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/79942792/181353232-8674abc2-c5ea-4526-92b0-58a8100db0d8.gif)
 
