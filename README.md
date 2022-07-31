@@ -42,7 +42,9 @@ style="display: inline-block">
 
 **The Entity Relationship Diagram**
 
-Once our team created the Texas Cheese database, we created the Entity Relationship Diagram (ERD). The ERD denotes the data types of each category in our database--- 
+Once our team created the Texas Cheese database, we created the Entity Relationship Diagram (ERD). The ERD denotes the data types of each category in 
+our database to conceptualize the columns that we are using in a different way. Through using the Entity Relationship Diagram that is shown we are able 
+to view the completed process of going through all three of the ERD types: the Conceptual diagram, the Logical diagram, and finally the Physical diagram.
 
 <img
   src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
