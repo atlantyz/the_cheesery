@@ -87,7 +87,12 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 - We defined the target as 'origin' or Cheese family and the features as the rest of the columns in our model. The other columns consist of characteristics that would help predict the correct Cheese family based on descriptions of each Cheese from our Texas-based companys.
 - Split the preprocessed data into a training and testing dataset for the ML model. We chose to split it 80% training and 20% testing. 
 - We created the StandardScaler instance, fit the scaler with the training set, and scaled the data for our model.
-- Fit the data and run beginning predictions
+- Before we started to fit the model, we set up arrays to store the training and testing accuracies. Then, we plotted the accuracy scores with given parameters for the model to see at which point n_neighbors would equal a specfic parameter to give us our best accuracy. This number ended up as 1.
+- Next, we fit the data and began running predictions.
+- After making predictions on the testing data, we analyzed how well our knn model classifies Cheese family ('origin') by creating a Classification report that gives measures of: Accuracy, Precision, Recall, and F1-Scores.
+
+### Results Thus Far
+- As of now, our accuracy stands at 75%. Whle this is normall
 
 
 ## The Dashboard
