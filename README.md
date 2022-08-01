@@ -72,8 +72,19 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 | | Split preprocessed data into our feature and target arrays |
 
 
+### Pros and Cons of Choosing KNN
+#### Pros:
+- Great for classification models with many different labels
+- Versatile in calculations of proximity
+- More intuitive algorithm compared to other classification models 
+- Memory-based approach
+#### Cons:
+- Since the algorithm is a lazy learner, it is prone to overfitting
+- Not as efficient computationally
+- Difficult to find the 'right' value for "k"
+
 ### Training the Model
-- Split the preprocessed data into a training and testing dataset for the ML model
+- Split the preprocessed data into a training and testing dataset for the ML model. We chose to split it 75% training and 25% testing. This is especially important because the KNN model is prone to overfitting.
 - Fit the data and run beginning predictions
 
 
