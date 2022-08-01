@@ -51,7 +51,11 @@ to view the completed process of going through all three of the ERD types: the C
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 
-words words words 
+The database was created using PostgreSQL and pgAdmin. In the database, we have various categories that consist of the names of the different 
+cheeses, the different Texas cheese companies, the location of where the cheeses can be found in Texas, the typical prices of the cheeses, the different
+kinds of milk that are used to make the different cheeses, the origin is where the cheeses are known to originate from. Some of the other columns are 
+split up by cheeses can be categorized by the family of the cheese, the types of cheese, the different textures of cheese, along with the different 
+colors, flavors, and the last column that we have available would be to tell if there is a vegetarian option for said cheese.
 
 
 <img width="500" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png"> <img width="500" alt="" src="https://user-images.githubusercontent.com/79942792/181433420-fa44c26f-b6e8-447e-92f6-5595b0b77cfc.png">
