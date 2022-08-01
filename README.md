@@ -84,7 +84,9 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 - Difficult to find the 'right' value for "k"
 
 ### Training the Model
-- Split the preprocessed data into a training and testing dataset for the ML model. We chose to split it 75% training and 25% testing. This is especially important because the KNN model is prone to overfitting.
+- We defined the target as 'origin' or Cheese family and the features as the rest of the columns in our model. The other columns consist of characteristics that would help predict the correct Cheese family based on descriptions of each Cheese from our Texas-based companys.
+- Split the preprocessed data into a training and testing dataset for the ML model. We chose to split it 80% training and 20% testing. 
+- We created the StandardScaler instance, fit the scaler with the training set, and scaled the data for our model.
 - Fit the data and run beginning predictions
 
 
