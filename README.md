@@ -92,8 +92,10 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 - After making predictions on the testing data, we analyzed how well our knn model classifies Cheese family ('origin') by creating a Classification report that gives measures of: Accuracy, Precision, Recall, and F1-Scores.
 
 ### Results Thus Far
-- As of now, our accuracy stands at 75%. Whle this is normall
+- As of now, our accuracy stands at 75%. While this is normally a good accuracy score, as you can see below some of our families have a 0 or 1. This is not good because it means our model had some overfitting or not enough data at all to make predictions needed.
+- While our model could be a decent predictor of Cheddar or Mozzarella, it is not for any of the other families. This is likely due to under representation of the families in our dataset.
 
+![Results of ML D3](https://user-images.githubusercontent.com/97268254/182053723-a93370a8-b1a2-42f5-9a0e-9a67780b683f.PNG)
 
 ## The Dashboard
 Using Tableau and the dashboard, customers are able to:
