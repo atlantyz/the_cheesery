@@ -2,7 +2,7 @@
 
 **Topic**: Texas Cheese Finder
 
-**Dashboard**: [The Dashboard](https://www.google.com)
+**Dashboard**: [The Dashboard](https://public.tableau.com/views/TheCheesery_16589442131650/TheCheesery?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 **Presentation**: [The Final Presentation](https://docs.google.com/presentation/d/1SVYNtrikItm9xgU9gQEdv__-XDalqVad2gs2nYSHae4/edit?usp=sharing)
 
@@ -67,6 +67,17 @@ colors, flavors, and the last column that we have available would be to tell if 
 
 The purpose of this study is to find a Texas Cheese for customers. Our team used supervised machine learning *** more words.
 
+
+**Pros and Cons of Choosing KNN**
+| Pros | Cons |
+| ---- | ---- |
+| Great for classification models with many different labels | The algorithm is a lazy learner and is prone to overfitting |
+| Versatile in calculations of proximity | Computationally inefficient |
+| More intuitive algorithm compared to other classification models | Difficult to find the 'right' value for "k" |
+| Memory-based approach | |
+
+**The Process**
+
 | Preliminary feature selection and engineering | Preliminary data preprocessing |
 | ------ | ----- | 
 | Review colmuns for nulls and data types | Reviewing value_counts of data; This helped to determine potental target data within the dataset |
@@ -75,19 +86,7 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 | Checked unique values for each feature to determine which would be best for use | Adjusted the working dataset to contain only fields used by machine learning model |
 | | Split preprocessed data into our feature and target arrays |
 
-
-### Pros and Cons of Choosing KNN
-#### Pros:
-- Great for classification models with many different labels
-- Versatile in calculations of proximity
-- More intuitive algorithm compared to other classification models 
-- Memory-based approach
-#### Cons:
-- Since the algorithm is a lazy learner, it is prone to overfitting
-- Not as efficient computationally
-- Difficult to find the 'right' value for "k"
-
-### Training the Model
+**Training the Model**
 - We defined the target as 'origin' or Cheese family and the features as the rest of the columns in our model. The other columns consist of characteristics that would help predict the correct Cheese family based on descriptions of each Cheese from our Texas-based companys.
 - Split the preprocessed data into a training and testing dataset for the ML model. We chose to split it 80% training and 20% testing. 
 - We created the StandardScaler instance, fit the scaler with the training set, and scaled the data for our model.
@@ -95,36 +94,28 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 - Next, we fit the data and began running predictions.
 - After making predictions on the testing data, we analyzed how well our knn model classifies Cheese family ('origin') by creating a Classification report that gives measures of: Accuracy, Precision, Recall, and F1-Scores.
 
-### Results Thus Far
+
+## The Results
+
 - As of now, our accuracy stands at 75%. While this is normally a good accuracy score, as you can see below some of our families have a 0 or 1. This is not good because it means our model had some overfitting or not enough data at all to make predictions needed.
 - While our model could be a decent predictor of Cheddar or Mozzarella, it is not for any of the other families. This is likely due to under representation of the families in our dataset.
 
 ![Results of ML D3](https://user-images.githubusercontent.com/97268254/182053723-a93370a8-b1a2-42f5-9a0e-9a67780b683f.PNG)
 
-## The Dashboard
-Using Tableau and the dashboard, customers are able to:
-* Filter elements of the dashboard and see how others are affected.
-* Learn more about cheese and its characteristics
-
-
-![tableau](https://github.com/rryl/the_cheesery/blob/aa865e2a0469306d7b50e47f352215a821f006d6/resources/CheeseryTableau.png)
-
-Elements:
-* Location Distribution
-* Vegetarian Percentage
-* Flavor Count
-* Avg Price by Milk
-* Avg Price by Family
-* Interactive Map of the Cheese Companies
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/79942792/181353232-8674abc2-c5ea-4526-92b0-58a8100db0d8.gif)
-
-## The Results
-
-words words words
 
 ## The Conclusion
 
+
+
+## The Dashboard
+
+<img width="800" alt="Screen Shot 2022-08-02 at 2 03 10 PM" src="https://user-images.githubusercontent.com/79942792/182455329-9331de6e-cd91-4a80-8a37-57feceb1270b.png">
+
+
+<img width = "500" src="https://user-images.githubusercontent.com/79942792/182457580-015d684d-805e-404b-8eb3-902214e78f41.gif"> <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457590-22d59079-7a3e-4821-9a37-4e9aafaed93e.gif">
+
+
+<img width="500" alt="Screen Shot 2022-08-02 at 2 02 58 PM" src="https://user-images.githubusercontent.com/79942792/182455352-8f97f124-b071-414d-9f38-1b2d8cc8218d.png"> <img width="500" alt="Screen Shot 2022-08-02 at 2 03 04 PM" src="https://user-images.githubusercontent.com/79942792/182455360-afe319bd-b700-4866-9f25-8112d7f080a4.png">
 
 ---
 ### The Project Details
