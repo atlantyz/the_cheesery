@@ -79,7 +79,7 @@ To find customers of The Cheesery a Texas Cheese based on cheese classification 
 | Memory-based approach | Does not work well with large datasets|
 
 
-<img width="500" src="https://user-images.githubusercontent.com/79942792/182509777-c3907349-0b52-42b1-9194-46a20c4c32f5.jpg"><img width="500" src="https://user-images.githubusercontent.com/79942792/182504733-c6978d73-6e53-47b3-a435-41f50a8a99a4.jpg">
+<img width="500" src="https://user-images.githubusercontent.com/79942792/182509777-c3907349-0b52-42b1-9194-46a20c4c32f5.jpg"><img width="450" src="https://user-images.githubusercontent.com/79942792/182504733-c6978d73-6e53-47b3-a435-41f50a8a99a4.jpg">
 
 
 **Training the Model**
@@ -141,6 +141,6 @@ The online-concept store, The Cheesery, focused on cheese created throughout the
 
 
 
-### Resources
+**Resources**
 
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
