@@ -51,11 +51,11 @@ our database to conceptualize the columns that we are using in a different way.
 
 
 Through using the Entity Relationship Diagram that is shown we are able to view the completed process of going through all three of the ERD types: 
-* the Conceptual diagram - A visual representation of how the concept of a system works by using a title name for the table and column headers. This would
+  * the Conceptual diagram - A visual representation of how the concept of a system works by using a title name for the table and column headers. This would
 be the first step in the ERD
-* the Logical diagram - A graphical representation of a program that combines the conceptual diagram's information with all of the data types and the 
+  * the Logical diagram - A graphical representation of a program that combines the conceptual diagram's information with all of the data types and the 
 primary keys. This would be the second step that builds upon the Conceptual diagram
-* the Physical diagram - Explains how the conceptual and logical diagrams are connected through the data to appear as a physical correlation and this 
+  * the Physical diagram - Explains how the conceptual and logical diagrams are connected through the data to appear as a physical correlation and this 
 would be the last step of the ERD process 
 
   
