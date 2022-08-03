@@ -12,14 +12,14 @@
 The purpose of this project is to create a database of Texas cheesemakers' cheese products, in addition to categorical cheese data, to find customers a Texas cheese they will enjoy. This project consists of the following elements: 
 
 1. **The Database**: Create a database of cheese and cheesemakers from Texas. 
-2. **The Dashboard**: Create an interactive dashboard that summarizes the cheese made and sold by Texas cheesemakers
-3. **The Texas Cheese Finder**: The Texas Cheese Finder will use a supervised machine learning model to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery. Without the ability to taste the flavors offered online, this allows customers to get a list of cheeses similar to their already prefence and keep them shopping locally in Texas.
+2. **The Texas Cheese Finder**: The Texas Cheese Finder will use a supervised machine learning model to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery. Without the ability to taste the flavors offered online, this allows customers to get a list of cheeses similar to their already prefence and keep them shopping locally in Texas.
+3. **The Dashboard**: Create an interactive dashboard that summarizes the cheese made and sold by Texas cheesemakers
 
-## The Data and Database
+## The Dataset and Database
 
-### The Data
+### The Dataset
 
-The data used to create the Texas cheese database was compiled from the Texas cheesemakers' websites and an online cheese database, containing categorical data that our team used to classify the Texas cheese. 
+The data used to create the Texas cheese dataset was compiled from the Texas cheesemakers' websites and an online cheese database, containing categorical data that our team used to classify the Texas cheese. 
 
 <img align = "right" img width="600" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png"
 style="display: inline-block">
@@ -45,27 +45,19 @@ style="display: inline-block">
   src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
   style="display: inline-block">
 
-Once our team created the Texas Cheese database, we created the Entity Relationship Diagram (ERD). The ERD denotes the data types of each category in 
-our database to conceptualize the columns that we are using in a different way. 
-
+Once our team created the Texas Cheese database, we created the Entity Relationship Diagram (ERD). The ERD denotes the data types of each category in our database to conceptualize the columns that we are using in a different way. 
 
 
 Through using the Entity Relationship Diagram that is shown we are able to view the completed process of going through all three of the ERD types: 
-  * the Conceptual diagram - A visual representation of how the concept of a system works by using a title name for the table and column headers. This would
-be the first step in the ERD
-  * the Logical diagram - A graphical representation of a program that combines the conceptual diagram's information with all of the data types and the 
-primary keys. This would be the second step that builds upon the Conceptual diagram
-  * the Physical diagram - Explains how the conceptual and logical diagrams are connected through the data to appear as a physical correlation and this 
-would be the last step of the ERD process 
+  * The Conceptual diagram - A visual representation of how the concept of a system works by using a title name for the table and column headers. This would be the first step in the ERD.
+  * The Logical diagram - A graphical representation of a program that combines the conceptual diagram's information with all of the data types and the primary keys. This would be the second step that builds upon the Conceptual diagram
+  * The Physical diagram - Explains how the conceptual and logical diagrams are connected through the data to appear as a physical correlation and this would be the last step of the ERD process 
 
   
-
+**The Database**
 
 The database was created using PostgreSQL and pgAdmin. In the database, we have various categories that consist of the names of the different 
-cheeses, the different Texas cheese companies, the location of where the cheeses can be found in Texas, the typical prices of the cheeses, the different
-kinds of milk that are used to make the different cheeses, the origin is where the cheeses are known to originate from. Some of the other columns are 
-split up by cheeses can be categorized by the family of the cheese, the types of cheese, the different textures of cheese, along with the different 
-colors, flavors, and the last column that we have available would be to tell if there is a vegetarian option for said cheese.
+cheeses, the different Texas cheese companies, the location of where the cheeses can be found in Texas, the typical prices of the cheeses, the different kinds of milk that are used to make the different cheeses, the origin is where the cheeses are known to originate from. Some of the other columns are split up by cheeses can be categorized by the family of the cheese, the types of cheese, the different textures of cheese, along with the different colors, flavors, and the last column that we have available would be to tell if there is a vegetarian option for said cheese.
 
 
 <img width="500" alt="Screenshot 2022-07-20 120907" src="https://user-images.githubusercontent.com/79942792/180042079-ea880036-3d5a-490d-b32e-59b02a2bce42.png"> <img width="500" alt="" src="https://user-images.githubusercontent.com/79942792/181433420-fa44c26f-b6e8-447e-92f6-5595b0b77cfc.png">
@@ -75,7 +67,7 @@ colors, flavors, and the last column that we have available would be to tell if 
 
 **Model Used**: KNNeighborClassifier
 
-The purpose of this study is to find a Texas Cheese for customers. Our team used supervised machine learning *** more words.
+The purpose of this study is to find a Texas Cheese for customers. Our team used supervised machine learning 
 
 
 **Pros and Cons of Choosing KNN**
@@ -84,10 +76,10 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 | Great for classification models with many different labels | The algorithm is a lazy learner and is prone to overfitting |
 | Versatile in calculations of proximity | Computationally inefficient |
 | More intuitive algorithm compared to other classification models | Difficult to find the 'right' value for "k" |
-| Memory-based approach | |
+| Memory-based approach | Does not work well with large datasets|
 
 
-<img width="500" src="https://user-images.githubusercontent.com/79942792/182504548-81ec29a0-a442-4366-a214-8e6bb10886b6.jpg"><img width="500" src="https://user-images.githubusercontent.com/79942792/182504733-c6978d73-6e53-47b3-a435-41f50a8a99a4.jpg">
+<img width="500" src="https://user-images.githubusercontent.com/79942792/182509777-c3907349-0b52-42b1-9194-46a20c4c32f5.jpg"><img width="500" src="https://user-images.githubusercontent.com/79942792/182504733-c6978d73-6e53-47b3-a435-41f50a8a99a4.jpg">
 
 
 **Training the Model**
@@ -113,7 +105,7 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 
 ## The Dashboard
 
-<img width="800" alt="Screen Shot 2022-08-02 at 2 03 10 PM" src="https://user-images.githubusercontent.com/79942792/182455329-9331de6e-cd91-4a80-8a37-57feceb1270b.png">
+<img width="500" alt="Screen Shot 2022-08-02 at 2 03 10 PM" src="https://user-images.githubusercontent.com/79942792/182455329-9331de6e-cd91-4a80-8a37-57feceb1270b.png" style="display: inline-block">
 
 
 <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457580-015d684d-805e-404b-8eb3-902214e78f41.gif"> <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457590-22d59079-7a3e-4821-9a37-4e9aafaed93e.gif">
