@@ -19,7 +19,7 @@ The purpose of this project is to create a database of Texas cheesemakers' chees
 
 ### The Dataset
 
-The data used to create the Texas cheese dataset was compiled from the Texas cheesemakers' websites and an online cheese database, containing categorical data that our team used to classify the Texas cheese. 
+The data used to create the Texas cheese dataset was compiled from the Texas cheesemakers' websites and an online cheese database containing categorical data that our team used to classify the Texas cheese. 
 
 <img align = "right" img width="500" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png"
 style="display: inline-block">
