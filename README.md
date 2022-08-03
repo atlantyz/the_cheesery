@@ -9,7 +9,7 @@
 ## The Purpose
 
 
-The purpose of this project is to create a database of Texas cheesemakers' cheese products, in addition to categorical cheese data, to find customers a Texas cheese they will enjoy. This project consists of the following elements: 
+The purpose of this project is to create a database of Texas cheesemakers' cheese products and to find customers of the online concept store, The Cheesery, a Texas cheese that they will enjoy. This project consists of the following elements: 
 
 1. **The Database**: Create a database of cheese and cheesemakers from Texas. 
 2. **The Texas Cheese Finder**: The Texas Cheese Finder will use a supervised machine learning model to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery. Without the ability to taste the flavors offered online, this allows customers to get a list of cheeses similar to their already prefence and keep them shopping locally in Texas.
