@@ -41,15 +41,22 @@ style="display: inline-block">
 ### The Database
 
 **The Entity Relationship Diagram**
+<img align = "right"
+  src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
+  style="display: inline-block">
 
 Once our team created the Texas Cheese database, we created the Entity Relationship Diagram (ERD). The ERD denotes the data types of each category in 
-our database to conceptualize the columns that we are using in a different way. Through using the Entity Relationship Diagram that is shown we are able 
-to view the completed process of going through all three of the ERD types: the Conceptual diagram, the Logical diagram, and finally the Physical diagram.
+our database to conceptualize the columns that we are using in a different way. 
 
-<img
-  src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+Through using the Entity Relationship Diagram that is shown we are able to view the completed process of going through all three of the ERD types: 
+* the Conceptual diagram
+* the Logical diagram
+* the Physical diagram
   
+
+
 
 The database was created using PostgreSQL and pgAdmin. In the database, we have various categories that consist of the names of the different 
 cheeses, the different Texas cheese companies, the location of where the cheeses can be found in Texas, the typical prices of the cheeses, the different
@@ -76,7 +83,16 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 | More intuitive algorithm compared to other classification models | Difficult to find the 'right' value for "k" |
 | Memory-based approach | |
 
-**The Process**
+**Preliminary Feature Selection and Engineering**
+
+![1](https://user-images.githubusercontent.com/79942792/182501093-2afe5074-a055-4984-9b91-8726231142ba.jpg)
+
+
+**Preliminary Data Preprocessing**
+
+
+![1 2](https://user-images.githubusercontent.com/79942792/182501131-380ef9f0-114e-42b8-a4ef-5db6673bb5a6.jpg)
+
 
 | Preliminary feature selection and engineering | Preliminary data preprocessing |
 | ------ | ----- | 
