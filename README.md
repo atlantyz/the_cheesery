@@ -41,7 +41,7 @@ style="display: inline-block">
 ### The Database
 
 **The Entity Relationship Diagram**
-<img align = "right"
+<img align = "right" width="200"
   src="https://user-images.githubusercontent.com/79942792/180083939-b64c0209-a2c6-4e79-b516-7f75ffcfce59.png"
   style="display: inline-block">
 
