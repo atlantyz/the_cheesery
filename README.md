@@ -125,7 +125,7 @@ In addition to the interactive maps of Texas cheesemakers, our dashboard include
 <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457580-015d684d-805e-404b-8eb3-902214e78f41.gif"> <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457590-22d59079-7a3e-4821-9a37-4e9aafaed93e.gif">
 
 
-<img width="500" alt="Screen Shot 2022-08-02 at 2 02 58 PM" src="https://user-images.githubusercontent.com/79942792/182455352-8f97f124-b071-414d-9f38-1b2d8cc8218d.png"> <img width="500" alt="Screen Shot 2022-08-02 at 2 03 04 PM" src="https://user-images.githubusercontent.com/79942792/182455360-afe319bd-b700-4866-9f25-8112d7f080a4.png">
+<img width="400" alt="Screen Shot 2022-08-02 at 2 02 58 PM" src="https://user-images.githubusercontent.com/79942792/182455352-8f97f124-b071-414d-9f38-1b2d8cc8218d.png"> <img width="400" alt="Screen Shot 2022-08-02 at 2 03 04 PM" src="https://user-images.githubusercontent.com/79942792/182455360-afe319bd-b700-4866-9f25-8112d7f080a4.png">
 
 
 ### The Conclusion
