@@ -21,7 +21,7 @@ The purpose of this project is to create a database of Texas cheesemakers' chees
 
 The data used to create the Texas cheese dataset was compiled from the Texas cheesemakers' websites and an online cheese database, containing categorical data that our team used to classify the Texas cheese. 
 
-<img align = "right" img width="600" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png"
+<img align = "right" img width="500" alt="Screen Shot 2022-07-27 at 2 30 16 PM" src="https://user-images.githubusercontent.com/79942792/181356334-cc9aeefa-6605-44a0-82ec-bd5dd8574ec8.png"
 style="display: inline-block">
 
 | **The List of Texas Cheesemakers**|
@@ -65,12 +65,12 @@ cheeses, the different Texas cheese companies, the location of where the cheeses
 
 ## The Machine Learning Model
 
-**Model Used**: KNNeighborClassifier
+**Model Used**: K-Nearest Neighbor Classifier
 
-The purpose of this study is to find a Texas Cheese for customers. Our team used supervised machine learning 
+To find customers of The Cheesery a Texas Cheese based on cheese classification data, we chose the supervised machine learning algorithm, the K-Nearest Neighbor Classifier (KNN). Because many of our customers will be new to the world of Texas Cheese, we used machine learning to find a cheese based on the characteristics of cheese they have tried before. The KNN algorithm assumes that similar things are in close proximity. Thus, we believed the KNN algorithm would be proficient in finding a Texas cheese that is similar to known cheese classifications. 
 
 
-**Pros and Cons of Choosing KNN**
+**Pros and Cons of Choosing K-Nearest Neighbor Classifier**
 | Pros | Cons |
 | ---- | ---- |
 | Great for classification models with many different labels | The algorithm is a lazy learner and is prone to overfitting |
@@ -93,19 +93,33 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 
 ## The Results
 
-- As of now, our accuracy stands at 75%. While this is normally a good accuracy score, as you can see below some of our families have a 0 or 1. This is not good because it means our model had some overfitting or not enough data at all to make predictions needed.
-- While our model could be a decent predictor of Cheddar or Mozzarella, it is not for any of the other families. This is likely due to under representation of the families in our dataset.
+<img align = "right" width="300"
+  src="https://user-images.githubusercontent.com/97268254/182053723-a93370a8-b1a2-42f5-9a0e-9a67780b683f.PNG"
+  style="display: inline-block">
+  
+The K-Nearest Neighbor Classifier supervised machine learning model yielded an accuracy of 75%. The accuracy scores for cheddar cheese and mozzarella cheese families indicates that The Cheesery will be proficient in recommending a cheese that is similar to one of these cheese families. However, many of our cheese families have a score of 0 or 1. We determined that the scores of 0 or 1 are due to either overfitting or an insufficient amount of data in the dataset to make predictions for every cheese family.
 
-![Results of ML D3](https://user-images.githubusercontent.com/97268254/182053723-a93370a8-b1a2-42f5-9a0e-9a67780b683f.PNG)
+**Recommendations**: 
 
-
-## The Conclusion
-
+We recommend that Texas cheesemakers make more cheese! While Texas is one of the top 5 cheese producing states, there is still a small amount of cheesemakers throughout Texas. As a result, we could not feed the model more information about cheeses that do not exist, yet! 
 
 
 ## The Dashboard
 
-<img width="500" alt="Screen Shot 2022-08-02 at 2 03 10 PM" src="https://user-images.githubusercontent.com/79942792/182455329-9331de6e-cd91-4a80-8a37-57feceb1270b.png" style="display: inline-block">
+<img align = "right" width="500" alt="Screen Shot 2022-08-02 at 2 03 10 PM" src="https://user-images.githubusercontent.com/79942792/182455329-9331de6e-cd91-4a80-8a37-57feceb1270b.png" style="display: inline-block">
+
+Our dashboard uses an interactive maps of Texas to illustrate the location of the Texas cheesemakers in our dataset. The interactive maps allow the user to select cheese characteristics such as cheese family, cheese price, and cheese flavor to find a Texas cheesemaker(s) that makes a cheese with the user-defined specifications. 
+
+In addition to the interactive maps of Texas cheesemakers, our dashboard includes visualizations of our team's Texas Cheese dataset. The user can easily visualize information about Texas Cheese including: 
+
+* Average Cheese Price by Cheesemaker
+* Average Cheese Price by Cheese Family
+* Average Cheese Price by Milk Type
+* Number of Cheeses (in the Texas Cheese datset) by Cheese Family
+* Number of Cheeses (in the Texas Cheese datset) by Milk Type
+* Number of Cheeses (in the Texas Cheese datset) by Traditional Country of Origin
+* Number of Cheeses (in the Texas Cheese datset) by Flavor
+
 
 
 <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457580-015d684d-805e-404b-8eb3-902214e78f41.gif"> <img width = "500" src="https://user-images.githubusercontent.com/79942792/182457590-22d59079-7a3e-4821-9a37-4e9aafaed93e.gif">
@@ -113,9 +127,20 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 
 <img width="500" alt="Screen Shot 2022-08-02 at 2 02 58 PM" src="https://user-images.githubusercontent.com/79942792/182455352-8f97f124-b071-414d-9f38-1b2d8cc8218d.png"> <img width="500" alt="Screen Shot 2022-08-02 at 2 03 04 PM" src="https://user-images.githubusercontent.com/79942792/182455360-afe319bd-b700-4866-9f25-8112d7f080a4.png">
 
+
+### The Conclusion
+
+The online-concept store, The Cheesery, focused on cheese created throughout the state of Texas. Our team compiled data from Texas cheesemakers, and combined the available information with an existing dataset on Cheese.com. Following the creation of the Texas Cheese dataset, our team created a database to feed into our supervised machine learning model, using the K-Nearest Neighbor Classifier algorithm. The results of our machine learning model determined that The Cheesery could accurately recommend cheddar and mozzarella cheeses to customers, based on the classifying cheese categories in our dataset, but no other cheeses could be accurately recommended with the current data. Because our model focused on cheese created in Texas, the available data to provide the model is limited, e.g. if only one Texas cheesemaker sells a feta cheese, our team could not give the model more data about feta cheeses in Texas. 
+
 ---
 ### The Project Details
 
 **The Communication Protocol**
 
 <img width="421" alt="Screenshot 2022-07-20 120612" src="https://user-images.githubusercontent.com/79942792/180041510-3b7aa78c-9654-4288-834e-636596b5b1b2.png">
+
+
+
+### Resources
+
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
