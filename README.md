@@ -2,9 +2,9 @@
 
 **Topic**: Texas Cheese Finder
 
-**Dashboard**: [The Dashboard](https://public.tableau.com/views/TheCheesery_16589442131650/TheCheesery?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[The Dashboard](https://public.tableau.com/views/TheCheesery_16589442131650/TheCheesery?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-**Presentation**: [The Final Presentation](https://docs.google.com/presentation/d/1SVYNtrikItm9xgU9gQEdv__-XDalqVad2gs2nYSHae4/edit?usp=sharing)
+[The Final Presentation](https://docs.google.com/presentation/d/1SVYNtrikItm9xgU9gQEdv__-XDalqVad2gs2nYSHae4/edit?usp=sharing)
 
 ## The Purpose
 
