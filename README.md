@@ -11,9 +11,9 @@
 
 The purpose of this project is to create a database of Texas cheesemakers' cheese products and to find customers of the online concept store, The Cheesery, a Texas cheese that they will enjoy. This project consists of the following elements: 
 
-1. **The Database**: Create a database of cheese and cheesemakers from Texas. 
-2. **The Texas Cheese Finder**: The Texas Cheese Finder will use a supervised machine learning model to find a Texas cheese for customers based on cheese preferences for our new online cheese shop, The Cheesery. Without the ability to taste the flavors offered online, this allows customers to get a list of cheeses similar to their already prefence and keep them shopping locally in Texas.
-3. **The Dashboard**: Create an interactive dashboard that summarizes the cheese made and sold by Texas cheesemakers
+1. **The Database**: A database of cheese and cheesemakers from Texas. 
+2. **The Texas Cheese Finder**: The Texas Cheese Finder will use a supervised machine learning model to find a Texas cheese for customers based on categorical cheese data. Without the ability to taste the flavors offered online, this allows customers to get a list of cheeses similar to cheeses they have previously tasted, and keep them shopping locally in Texas.
+3. **The Dashboard**: An interactive dashboard that summarizes the cheese made and sold by Texas cheesemakers
 
 ## The Dataset and Database
 
