@@ -83,24 +83,9 @@ The purpose of this study is to find a Texas Cheese for customers. Our team used
 | More intuitive algorithm compared to other classification models | Difficult to find the 'right' value for "k" |
 | Memory-based approach | |
 
-**Preliminary Feature Selection and Engineering**
 
-![1](https://user-images.githubusercontent.com/79942792/182501093-2afe5074-a055-4984-9b91-8726231142ba.jpg)
+<img width="500" src="https://user-images.githubusercontent.com/79942792/182504548-81ec29a0-a442-4366-a214-8e6bb10886b6.jpg"><img width="500" src="https://user-images.githubusercontent.com/79942792/182504733-c6978d73-6e53-47b3-a435-41f50a8a99a4.jpg">
 
-
-**Preliminary Data Preprocessing**
-
-
-![1 2](https://user-images.githubusercontent.com/79942792/182501131-380ef9f0-114e-42b8-a4ef-5db6673bb5a6.jpg)
-
-
-| Preliminary feature selection and engineering | Preliminary data preprocessing |
-| ------ | ----- | 
-| Review colmuns for nulls and data types | Reviewing value_counts of data; This helped to determine potental target data within the dataset |
-| Adjust column names to fit in with database | Realized that using 'cheese name' would create issues when trying to encode variables and run model |
-| Drop null values (needed for clean data) | Encoded data using OneHotEncoder, fit and transformed the data |
-| Checked unique values for each feature to determine which would be best for use | Adjusted the working dataset to contain only fields used by machine learning model |
-| | Split preprocessed data into our feature and target arrays |
 
 **Training the Model**
 - We defined the target as 'origin' or Cheese family and the features as the rest of the columns in our model. The other columns consist of characteristics that would help predict the correct Cheese family based on descriptions of each Cheese from our Texas-based companys.
