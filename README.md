@@ -1,6 +1,6 @@
 # The Cheesery
 
-**Topic**: Texas Cheese Finder
+**Topic**: Texas Cheese
 
 [The Dashboard and Interactive Map](https://public.tableau.com/views/TheCheesery_16589442131650/TheCheesery?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
