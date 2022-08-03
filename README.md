@@ -115,10 +115,10 @@ In addition to the interactive maps of Texas cheesemakers, our dashboard include
 * Average Cheese Price by Cheesemaker
 * Average Cheese Price by Cheese Family
 * Average Cheese Price by Milk Type
-* Number of Cheeses (in the Texas Cheese datset) by Cheese Family
-* Number of Cheeses (in the Texas Cheese datset) by Milk Type
-* Number of Cheeses (in the Texas Cheese datset) by Traditional Country of Origin
-* Number of Cheeses (in the Texas Cheese datset) by Flavor
+* Number of Cheeses (in the Texas Cheese dataset) by Cheese Family
+* Number of Cheeses (in the Texas Cheese dataset) by Milk Type
+* Number of Cheeses (in the Texas Cheese dataset) by Traditional Country of Origin
+* Number of Cheeses (in the Texas Cheese dataset) by Flavor
 
 
 
